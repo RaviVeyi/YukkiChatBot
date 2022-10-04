@@ -17,27 +17,27 @@
         "size": "free"
       }
     },
-    "repository": "https://github.com/TeamYukki/YukkiChatBot",
+    "repository": "https://github.com/Raviveyi/YukkiChatBot",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org/apps.",
         "required": true,
-        "value": ""
+        "value": "9837751"
       },
       "API_HASH": {
         "description": "Get this value from my.telegram.org/apps.",
         "required": true,
-        "value": ""
+        "value": "015fa2de484051130969a2a626bca584"
       },
       "BOT_TOKEN": {
         "description": "A Bot token from @BotFather",
         "required": true,
-        "value": ""
+        "value": "5629747948:AAF3szbTG-XRQA2DBX1alFb4ba5mDtI9k5A"
       },
       "LOG_GROUP_ID": {
         "description": "A group id to forward the incoming messages in it.",
         "required": true,
-        "value": ""
+        "value": "-1001631218979"
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
